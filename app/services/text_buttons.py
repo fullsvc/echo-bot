@@ -1,0 +1,6 @@
+# Тексты кнопок
+
+ABOUT_BUTTON_TEXT = "О нас"
+FAQ_BUTTON_TEXT = "FAQ"
+PROFILE_BUTTON_TEXT = "PROFILE"
+BACK_BUTTON_TEXT = "Назад"
