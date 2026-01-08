@@ -1,2 +1,5 @@
 .env
 .venv
+app/handlers/__pycache__/
+app/keyboards/__pycache__/
+app/states/__pycache__/

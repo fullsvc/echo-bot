@@ -19,4 +19,7 @@ async def run_bot():
 
 
 if __name__== "__main__":
-    asyncio.run(run_bot())
+    try:
+        asyncio.run(run_bot())
+    except KeyboardInterrupt:
+        logging.info("Завершение работы бота")
