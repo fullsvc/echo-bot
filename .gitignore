@@ -3,3 +3,5 @@
 app/handlers/__pycache__/
 app/keyboards/__pycache__/
 app/states/__pycache__/
+app/services/__pycache__/
+app/config/__pycache__/
