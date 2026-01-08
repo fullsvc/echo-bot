@@ -5,6 +5,8 @@ logging.basicConfig(level=logging.INFO)
 
 
 class Profile(StatesGroup):
+    '''Класс состояний для анкеты пользователя'''
+    
     name = State()
     city = State()
 

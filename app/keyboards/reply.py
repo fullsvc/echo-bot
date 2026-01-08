@@ -1,4 +1,4 @@
-# Reply клавиатура
+# Reply клавиатуры
 
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from app.services.text_buttons import FAQ_BUTTON_TEXT, PROFILE_BUTTON_TEXT, ABOUT_BUTTON_TEXT, BACK_BUTTON_TEXT

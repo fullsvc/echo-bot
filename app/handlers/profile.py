@@ -46,7 +46,7 @@ async def city_entered(message: types.Message, state: FSMContext):
     await message.answer(result_text)
     await state.clear()
 
-    await message.answer(f"На главную", reply_markup=main_menu_keyboard)
+    await message.answer(f"Возврат в главное меню", reply_markup=main_menu_keyboard)
 
 
 
